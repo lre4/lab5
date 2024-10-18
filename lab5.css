@@ -2,3 +2,21 @@
     height: 200px;
     width: 300px;
 }
+
+.responsive-box{
+    width: 50%;
+    height: 50%;
+}
+
+.padded-text{
+    padding: 20px;
+}
+
+.custom-padding{
+    padding: 20px 10px 20px 10px;
+}
+
+.border-box{
+    border: 2px;
+    border-style: solid;
+}
