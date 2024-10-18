@@ -46,3 +46,24 @@
 .block-element{
     display: block;
 }
+
+.inline-block-element{
+    display: inline-block;
+}
+
+.hidden-element{
+    display: none;
+}
+
+.visible-element{
+    visibility: visible;
+}
+
+.invisible-element{
+    visibility: hidden;
+}
+
+.transparent-box{
+    background-color: blue;
+    opacity: 0.5;
+}
